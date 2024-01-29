@@ -1,7 +1,6 @@
 # Price Comparison Project (SuperMarkIt)
-A webscraper for the Django Framework that compares the product prices for various UK supermarkets.
+A webscraper for the Django Framework that compares the product prices for various India's Gadget Stores.
 
-<img src="Screenshots/Homepage.png" width="700">
 
 
 # Introduction
@@ -12,14 +11,6 @@ If you do not have Python 3.7+, you can download it [here](https://www.python.or
 If you do not have Django you can download it [here](https://docs.djangoproject.com/en/3.0/topics/install/)
 
 # About
-SuperMarkit uses a webscraping script that traverses through the URLs of the Leading UK supermarkits stored in the database. It then scrapes the prices from the website pages and updates the database with the latest prices. As it currently stands users can register to create an account and store items in a basket, there is not a checkout page yet.
+Gadget master uses a webscraping script that traverses through the URLs of the Leading UK supermarkits stored in the database. It then scrapes the prices from the website pages and updates the database with the latest prices. As it currently stands users can register to create an account and store items in a basket, there is not a checkout page yet.
 
 
-# Video-Demo
-The image below will redirect you to the video demo on Youtube
-[<img src="https://img.youtube.com/vi/i9ZL6qu5PH0/maxresdefault.jpg" width="75%">](https://www.youtube.com/watch?v=i9ZL6qu5PH0)
-
-# Screenshots
-<img src="Screenshots/categories.png" width="500">
-<img src="Screenshots/products.png" width="500">
-<img src="Screenshots/Basket.png" width="500">
