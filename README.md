@@ -3,13 +3,6 @@ A webscraper for the Django Framework that compares the product prices for vario
 
 <img src="Screenshots/Homepage.png" width="700">
 
-# Table of Contents
-- [Introduction](https://github.com/RamonWill/price-comparison-project#Introduction)
-- [Installation](https://github.com/RamonWill/price-comparison-project#Installation)
-- [About](https://github.com/RamonWill/price-comparison-project#About)
-- [Credits](https://github.com/RamonWill/price-comparison-project#Credit)
-- [Video Demo](https://github.com/RamonWill/price-comparison-project#Video-Demo)
-- [Screenshots](https://github.com/RamonWill/price-comparison-project#Screenshots)
 
 # Introduction
 This Project (SuperMarkIt) utilises the power of the webscraping library Beautiful Soup  and Django to create a price comparison site. 
